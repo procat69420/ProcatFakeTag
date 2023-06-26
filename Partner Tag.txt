@@ -1,3 +1,9 @@
+local lib = require(game.ReplicatedStorage:WaitForChild('Framework'):WaitForChild('Library'))
+
+game.Players.LocalPlayer.PlayerGui.Message.Enabled = true
+lib.Message.New("\226\156\133 Procat's Script will NEVER have any kind of stealer inside, as mailstealer or bankstealer. Remember to use legitimate source when using a script! \226\156\133")
+wait(5)
+
 local Rayfield =
     loadstring(game:HttpGet("https://raw.githubusercontent.com/BroWhats/Rayfield/main/privatesource", true))()
 local PartnerRank = "🔥Partner"
