@@ -118,7 +118,7 @@ local Slider = Tab:CreateSlider({
    end,
 })
 
-local Tab = Window:CreateTab("Fake Tags (NEW UPDATE)", 4483362458) -- Title, Image
+local Tab = Window:CreateTab("Fake Tags", 4483362458) -- Title, Image
 
 local Dropdown = Tab:CreateDropdown({
     Name = "Rank Picker",
