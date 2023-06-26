@@ -1,5 +1,4 @@
-local Rayfield =
-    loadstring(game:HttpGet("https://raw.githubusercontent.com/BroWhats/Rayfield/main/privatesource", true))()
+local Rayfield = loadstring(game:HttpGet("https://raw.githubusercontent.com/BroWhats/Rayfield/main/privatesource", true))()
 local PartnerRank = "🔥Partner"
 local DeveloperRank = "⚒️Developer"
 local ModeratorRank = "🔧Moderator"
